@@ -1,0 +1,16 @@
+# Arduino build files
+# Ignore compiled binaries and temporary build folders
+*/build/
+*.hex
+*.elf
+*.o
+
+# Website/Web Development
+# Ignore large dependency folders and logs
+node_modules/
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+
+# Environment/Secrets
+.env
