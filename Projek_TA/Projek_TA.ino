@@ -1,5 +1,5 @@
 /*************************************************
- * Indikator Ketersediaan Barang - ESP32
+ * Indikator Ketersediaan Barang dengan ESP32
  * Sensor  : Load Cell (HX711), Ultrasonic
  * Output  : LCD I2C, Traffic Light LEDs, Buzzer
  * ID      : RFID (RC522)
