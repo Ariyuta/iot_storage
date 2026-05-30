@@ -1,13 +1,13 @@
-[README.md](https://github.com/user-attachments/files/28420903/README.md)
+
 # IoT Storage Monitoring System
 
-A real-time shelf inventory monitoring system built with ESP32, multiple sensors, and a local web dashboard — designed for small-to-medium businesses as an affordable alternative to cloud-based inventory solutions.
+A real-time shelf inventory monitoring system built with ESP32, multiple sensors, and a local web dashboard designed for small-to-medium businesses as an affordable alternative to cloud-based inventory solutions.
 
 ---
 
 ## Overview
 
-Manual inventory management is prone to human error, delayed updates, and data inconsistencies. This project addresses those challenges by automating shelf monitoring using IoT sensors, providing real-time visual indicators and a web-based dashboard — all running locally without cloud dependency.
+Manual inventory management is prone to human error, delayed updates, and data inconsistencies. This project addresses those challenges by automating shelf monitoring using IoT sensors, providing real-time visual indicators and a web-based dashboard all running locally without cloud dependency.
 
 ---
 
